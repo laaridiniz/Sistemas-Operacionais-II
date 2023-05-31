@@ -6,7 +6,7 @@ const AppDataSource = new DataSource({
    host: "localhost", 
    port: 3306, 
    username: "root",
-   password: "Vera2611$",
+   password: "****",
    synchronize: false,
    logging: false,
    entities: ["src/entities/*.ts"],
