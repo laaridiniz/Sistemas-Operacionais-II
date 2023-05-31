@@ -1,0 +1,28 @@
+.container-sidebar{
+    overflow: scroll initial;
+    display: flex;
+    height: 100%;
+    min-height: 100vh;
+    float: left;
+}
+
+.sidebar{
+    min-height: 100vh;
+}
+
+a li div {
+    padding: 8px;
+    width: 130px;
+}
+
+a li.toggled div.toggled {
+    margin-left: -8px;
+    margin: 0;
+    width: 35px;
+}
+
+a li div,
+.gNLLMU .activeClicked > li{
+    background-color: #F5F5F5 !important;
+    color: #696969;
+}
