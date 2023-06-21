@@ -28,3 +28,10 @@ Para rodar o projeto:
 
 https://github.com/laaridiniz/Sistemas-Operacionais-II/assets/86115352/57cb2700-8c0d-4a64-ab5e-f2ec8e4153df
 
+<br>
+<div>
+  <img src="images/django-debian.png" alt="Executando aplicação Django no terminal"/>
+  <br>
+  <br>
+  <img src="images/django-navegador.png" alt="Acessando IP pelo navegador"/>
+</div>
